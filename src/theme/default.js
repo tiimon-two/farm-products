@@ -1,0 +1,20 @@
+export const defaultTheme = {
+  defaultWidth: "1280px",
+  fontFamily: '"Inter", "Arial", sans-serif',
+  textColor: "#333333",
+  fontSizeDefault: "18px",
+  lineHeightDefault: "150%",
+  intend: "90px",
+  buttonBackgroundColor: "#FC9B27",
+  buttonColor: "#ffffff",
+  sectionColor: "#D8ECFE",
+  advantagesColor: "#E1EDCE",
+  disAdvantagesColor: "#F8DDD7",
+  advantagesHeaderColor: "#88AA4D",
+  disAdvantagesHeaderColor: "#F75531",
+  backgroundColorGray: "#f7f7f7",
+  pageWidth: "1280px",
+  headerHeight: "80px",
+  footerHeight: "80px",
+  buttonColorHoverActive: "#fc7427"
+};

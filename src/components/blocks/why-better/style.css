@@ -1,0 +1,48 @@
+.why-better {
+  display: flex;
+  flex-direction: column;
+  width: 1100px;
+  padding: 100px 90px;
+}
+
+.why-better h2 {
+  margin-bottom: 64px;
+}
+
+.why-better__wrapper {
+  display: flex;
+  column-gap: 20px;
+  margin-bottom: 64px;
+}
+
+.why-better__list {
+  width: 540px;
+  margin: 0;
+  padding: 0;
+}
+
+.why-better__item {
+  list-style: none;
+  margin-bottom: 20px;
+  min-height: 197px;
+}
+
+.why-better__item--advantage {
+  background-color: #e1edce;
+}
+
+.why-better__item--disadvantage {
+  background-color: #f8ddd7;
+}
+
+.why-better__item--advantage .compareItem__category {
+  background-color: #88aa4d;
+}
+
+.why-better__item--disadvantage .compareItem__category {
+  background-color: #f75531;
+}
+
+.why-better .button {
+  align-self: center;
+}
